@@ -59,7 +59,7 @@ The analysis is done using SQL queries to derive insights from different combina
 
 - **SQL Script File**: The SQL script containing all queries used to analyze the data and draw insights.
 - **Executive Summary (PDF)**: A detailed write-up summarizing the key findings and recommendations for RSVP Movies.
-- **Dataset**: The dataset (if provided) or a description of the data structure and sources used in the analysis.
+- **Dataset**: The dataset CSV file.
 
 ## Conclusion
 
